@@ -43,7 +43,7 @@
     }
     
     li a:hover {
-        color: #79D1C3;
+        color: #6367FF;
     }
     
     .navTitle {
@@ -56,7 +56,7 @@
         text-decoration: none;
     }
     .navTitle .logo:hover {
-        color: #79D1C3;
+        color: #6367FF;
     }
     .mastHead {
         display: flex;
@@ -122,7 +122,7 @@
         padding: 5px;
     }
     .mastHead .boxIcon a:hover {
-        color: #79D1C3;
+        color: #6367FF;
     }
      .mastHead .item-icon {
         margin: 1em;
@@ -136,7 +136,7 @@
     }
     
     .mastHead .cv {
-        background-color: #79D1C3;
+        background-color: #6367FF;
         border-radius: 1.5em;
         padding: 0.6rem;
         font-size: 12px;
@@ -198,10 +198,10 @@
         margin-top: 1rem;
     }
     .services .box-services .card-item:hover {
-        border-bottom: 6px solid #79D1C3;
+        border-bottom: 6px solid #6367FF;
     }
     .services .box-services .square1 {
-        background-color:#C2FAF1;
+        background-color:#6367FF;
         width: 50px;
         height: 50px;
         border-radius: 50%;
@@ -290,7 +290,7 @@
         text-decoration: none;
     }
     .my-portfolio .box-portfolio .box .box-item a:hover {
-        color: #79D1C3;
+        color: #6367FF;
         text-decoration: underline;
     }
 
@@ -317,7 +317,7 @@
         flex-direction: column;
         width: 200px;
         height: auto;
-        background-color: #79D1C3;
+        background-color: #6367FF;
         margin: 0 auto;
         border-radius: 100px 100px 30px 30px;
         margin-top: 2rem;
@@ -348,7 +348,7 @@
         line-height: 1.6;
     }
     .about .about-card .about-desc a {
-        background-color: #79D1C3;
+        background-color: #6367FF;
         margin-top: 1rem;
         padding: 8px;
         text-align: center;
@@ -363,7 +363,7 @@
     }
 
     .footer {
-        background-color: #79D1C3;
+        background-color: #6367FF;
         margin: auto;
         height: 2rem;
     }
@@ -392,7 +392,7 @@
     .navbar {
         width: 100%;
         padding: 10px;
-        background: #79D1C3;
+        background: #6367FF;
         box-shadow: 0 0 10px gray;
         position: fixed;
         z-index: 9999;
@@ -437,7 +437,7 @@
     
     .sidebar li:hover,
     .sidebar li.active {
-        background-color: #79D1C3;
+        background-color: #6367FF;
     }
     .sidebar li a {
         color: black;
@@ -630,7 +630,7 @@
         border-radius: 20px;
     }
     .card-item:hover {
-        border: 1px solid #79D1C3;
+        border: 1px solid #6367FF;
     }
     .boxIcon {
         display: flex;
@@ -659,7 +659,7 @@
         top: 2rem;
     }
     .boxIcon .cv {
-        background-color: #79D1C3;
+        background-color: #6367FF;
         font-size: 12px;
         padding: 0.5rem;
         border-radius: 2rem;
@@ -676,7 +676,7 @@
         text-decoration: none;
     }
     .boxIcon .icon-style:hover {
-        color: #79D1C3;
+        color: #6367FF;
         text-decoration: none !important;
     }
 
@@ -711,7 +711,7 @@
    }
    .my-portfolio .card .card-item a{
         font-size: 12px;
-        color: #79D1C3;
+        color: #6367FF;
         text-decoration: none;
    }
    .my-portfolio .card a:hover{
@@ -737,7 +737,7 @@
         flex-direction: column;
         width: 200px;
         height: auto;
-        background-color: #79D1C3;
+        background-color: #6367FF;
         margin: 0 auto;
         border-radius: 100px 100px 30px 30px;
         margin-top: 2rem;
@@ -756,7 +756,7 @@
         line-height: 20px;
     }
     .about .about-card .about-desc a {
-        background-color: #79D1C3;
+        background-color: #6367FF;
         margin-top: 1rem;
         padding: 10px;
         text-align: center;
@@ -768,7 +768,7 @@
     .footer {
         width: auto;
         height: 40px;
-        background: #79D1C3;
+        background: #6367FF;
         box-shadow: 0 0 10px gray;
     }
     .footer p {
